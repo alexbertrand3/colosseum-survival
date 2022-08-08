@@ -1,4 +1,9 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7263293&assignment_repo_type=AssignmentRepo)
+An AI agent to play the game "Colosseum Survival" for COMP 424 &ndash; Artificial Intelligence at McGill University, by Alex Bertrand and Ian Dexter. Our agent uses Monte Carlo search trees with a hand-crafted heuristic function. It achieved a 99% win-rate against a random agent and a 50 - 28.6 - 21.4 win/loss/tie ratio against other students' agents in a tournament-style setting. The code for the agent can be found in [agents/student_agent.py](agents/student_agent.py).
+
+Read more about the strategies we used and challenges we encountered in our [report](report/report.pdf).
+
+The original repository from which our version is derived can be found [here](https://github.com/Ctree35/Project-COMP424-2022-Winter). Read more about the project below!
+
 # Colosseum Survival!
 
 **Project Description & Template** : https://www.overleaf.com/read/gcpfjdpqpytp 
