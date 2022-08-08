@@ -1,4 +1,4 @@
-An AI agent to play the game "Colosseum Survival" for COMP 424 &ndash; Artificial Intelligence at McGill University, by Alex Bertrand and Ian Dexter. Our agent uses Monte Carlo search trees with a hand-crafted heuristic function. It achieved a 99% win-rate against a random agent and a 50 - 28.6 - 21.4 win/loss/tie ratio against other students' agents in a tournament-style setting. The code for the agent can be found in [agents/student_agent.py](agents/student_agent.py).
+An AI agent to play the game "Colosseum Survival" for COMP 424 &ndash; Artificial Intelligence at McGill University, by Alex Bertrand and Ian Dexter. Our agent uses Monte Carlo search trees with a hand-crafted heuristic function to choose moves. It achieved a 99% win-rate against a random agent and a 50 - 28.6 - 21.4 win/loss/tie ratio against other students' agents in a tournament-style setting. The code for the agent can be found in [agents/student_agent.py](agents/student_agent.py).
 
 Read more about the strategies we used and challenges we encountered in our [report](report/report.pdf).
 
